@@ -1,9 +1,7 @@
 # Bootcamp-Devops-DesarrolloApp
 Este repositorio refiere a una nueva variante en las modificaciones establecidas para las entregas de los viernes
 
-<img src="devops.png">
 
-# Bienvenidos al repositorio del equipo 2
 ## FASE 3 del Bootcamp DevOps Enginner de EducacionIT
 
 ### Integrantes:
